@@ -2,7 +2,7 @@ const { defineConfig } = require('@vue/cli-service');
 const ESLintPlugin = require('eslint-webpack-plugin');
 
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/' : '/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/bbsale/' : '/',
 };
 
 module.exports = defineConfig({
