@@ -1,4 +1,15 @@
 <!-- filepath: /Users/ivarsplisko/PY_Projects/BB Sale/bbsale/src/pages/PageAbout.vue -->
+<script>
+import { useI18n } from 'vue-i18n';
+
+export default {
+  setup() {
+    const { t } = useI18n();
+    return { t };
+  }
+};
+</script>
+
 <template>
   <div class="main-container">
     <div class="main-card-1">
