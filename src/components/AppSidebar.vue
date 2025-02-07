@@ -7,7 +7,7 @@
     ]"
   >
     <div class="logo-bg">
-      <img class="logo" src="/img/logo.png" alt="Логотип BBSALE" />
+      <img class="logo" src="./img/logo.png" alt="Логотип BBSALE" />
     </div>
     
     <ul class="sidebar-list">
@@ -19,7 +19,7 @@
       </li>
     </ul>
     <div class="sidebar-company-info">
-      <img src="/img/ipx.png" alt="IPX SIA" width="70%" />
+      <img src="./img/ipx.png" alt="IPX SIA" width="70%" />
       <p>
         {{ $t("sidebar_company_info.intro") }}
         <strong>{{ $t("sidebar_company_info.company_name") }}</strong>.

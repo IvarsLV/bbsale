@@ -4,10 +4,11 @@
     <div class="main-card-1">
       <div class="card">
         <div class="card-inner">
-          <p v-html="$t('about.welcome_title')"> </p>
+          <p v-html="$t('about.welcome_title')"></p>
           <span class="material-symbols-outlined">work</span>
         </div>
-            <p v-html="$t('about.main_content')"> </p>
+            <p v-html="$t('about.main_content')"></p>
+
       </div>
     </div>
   </div>
