@@ -1,0 +1,175 @@
+{
+    "years": ["2021", "2022", "2023"],
+    "revenue": [100, 200, 300],
+    "assets": [150, 250, 350],
+    "equity": [50, 100, 150],
+    "stats": [
+      {
+        "title": "dashboard.revenue",
+        "icon": "currency_exchange",
+        "amount": "920 000 €"
+      },
+      {
+        "title": "dashboard.investment",
+        "icon": "finance_mode",
+        "amount": "500 000 €"
+      },
+      {
+        "title": "dashboard.sale_price",
+        "icon": "payments",
+        "amount": "320 000 €"
+      },
+      {
+        "title": "dashboard.total_amount",
+        "icon": "euro",
+        "amount": "820 000 €"
+      }
+    ],
+
+    "kpi": {
+      "2015": {
+        "annual_revenue": 26756.0,
+        "gross_profit": -3380.0,
+        "net_profit": 5646.0,
+        "total_assets": 26323.0,
+        "short_term_liabilities": 8991.0,
+        "long_term_liabilities": 0.0,
+        "administrative_staff": 346.0,
+        "cost_of_sales": 30136.0,
+        "equity": 17332.0,
+        "ebidta": null,
+        "ebidta_margin": null,
+        "dscr": null,
+        "net_liabilities_to_ebidta": null,
+        "liquidity_ratio": null
+      },
+      "2016": {
+        "annual_revenue": 13739.0,
+        "gross_profit": -12620.0,
+        "net_profit": -9843.0,
+        "total_assets": 11845.0,
+        "short_term_liabilities": 4356.0,
+        "long_term_liabilities": 0.0,
+        "administrative_staff": 7,
+        "cost_of_sales": 26359.0,
+        "equity": 7489.0,
+        "ebidta": null,
+        "ebidta_margin": null,
+        "dscr": null,
+        "net_liabilities_to_ebidta": null,
+        "liquidity_ratio": null
+      },
+      "2017": {
+        "annual_revenue": 0,  
+        "gross_profit": -12620,  
+        "net_profit": -8195,  
+        "total_assets": 28592,  
+        "short_term_liabilities": 14198,  
+        "long_term_liabilities": 15100,  
+        "administrative_staff": 1,  
+        "cost_of_sales": 0,  
+        "equity": -706,  
+        "ebidta": -8195,  
+        "ebidta_margin": null,  
+        "dscr": null,  
+        "net_liabilities_to_ebidta": null,  
+        "liquidity_ratio": null  
+      },
+      "2018": {
+        "annual_revenue": 269366,
+        "gross_profit": 102105,
+        "net_profit": 15755,
+        "total_assets": 261715,
+        "short_term_liabilities": 155459,
+        "long_term_liabilities": 91209,
+        "administrative_staff": 3,
+        "cost_of_sales": 167261,
+        "equity": 15047,
+        "ebidta": 15755,
+        "ebidta_margin": null,
+        "dscr": null,
+        "net_liabilities_to_ebidta": null,
+        "liquidity_ratio": null
+      },
+      "2019": {
+        "annual_revenue": 645735,
+        "gross_profit": 213035,
+        "net_profit": 34371,
+        "total_assets": 320406,
+        "short_term_liabilities": 194806,
+        "long_term_liabilities": 76182,
+        "administrative_staff": 4,
+        "cost_of_sales": 432700,
+        "equity": 49418,
+        "ebidta": 110557,
+        "ebidta_margin": 0.17121110052885471,
+        "dscr": 1.4511695676143972,
+        "net_liabilities_to_ebidta": -0.4469911448393137,
+        "liquidity_ratio": 0.6447440017247928
+      },
+      "2020": {
+        "annual_revenue": 755284,
+        "gross_profit": 146206,
+        "net_profit": 18092,
+        "total_assets": 332463,
+        "short_term_liabilities": 203798,
+        "long_term_liabilities": 61155,
+        "administrative_staff": 4, 
+        "cost_of_sales": 609078,
+        "equity": 67510,
+        "ebidta": 83611, 
+        "ebidta_margin": 0.1106995374238447,
+        "dscr": 1.2956756756756757,
+        "net_liabilities_to_ebidta": -0.650308129538225,
+        "liquidity_ratio": 0.6293279629460837
+      },
+      "2021": {
+        "annual_revenue": 784186,
+        "gross_profit": 163356,
+        "net_profit": 60151,
+        "total_assets": 432153,
+        "short_term_liabilities": 191629,
+        "long_term_liabilities": 112863,
+        "administrative_staff": 5,
+        "cost_of_sales": 620830,
+        "equity": 127661,
+        "ebidta": 173019,
+        "ebidta_margin": 0.2206351554350626,
+        "dscr": 1.532955884568016,
+        "net_liabilities_to_ebidta": -0.7378438206208566,
+        "liquidity_ratio": 1.2551544912304504
+      },
+      "2022": {
+        "annual_revenue": 835878,
+        "gross_profit": 208064,
+        "net_profit": 19581,
+        "total_assets": 420113,
+        "short_term_liabilities": 180318,
+        "long_term_liabilities": 92553,
+        "administrative_staff": 5,
+        "cost_of_sales": 627814,
+        "equity": 147242,
+        "ebidta": 112139,
+        "ebidta_margin": 0.13415713776412347,
+        "dscr": 1.2115652653074456,
+        "net_liabilities_to_ebidta": -1.313031148842062,
+        "liquidity_ratio": 1.3298450515200924
+      },
+      "2023": {
+        "annual_revenue": 920874,
+        "gross_profit": 99180,
+        "net_profit": 6845,
+        "total_assets": 390393,
+        "short_term_liabilities": 191366,
+        "long_term_liabilities": 77820,
+        "administrative_staff": 6,
+        "cost_of_sales": 821694,
+        "equity": 121207,
+        "ebidta": 84671,
+        "ebidta_margin": 0.09194634662288217,
+        "dscr": 1.0879593934721152,
+        "net_liabilities_to_ebidta": -1.4315054741292768,
+        "liquidity_ratio": 1.0400332347438939
+      }
+    }
+  }

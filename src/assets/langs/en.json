@@ -1,0 +1,84 @@
+{
+  "main": "Dashboard",
+  "aboutmenu": "About Us",
+  "kpi_menu": "KPIs",
+  "assets_menu": "Assets",
+  "photos": "Photos",
+  "contacts_menu": "Contacts",
+  "sidebar_company_info": {
+    "intro": "This site and the company sales process are managed by",
+    "company_name": "IPX SIA",
+    "help": "If you also want to create a professional website or get help with managing deals, we are ready to assist. Trust our expertise and achieve high-quality results.",
+    "contact_email": "fin@ipx.lv"
+  },
+  "dashboard": {
+  "title": "Dashboard | Betonblock SIA",
+  "welcome_title": "Concrete plant for implementing large-scale projects in Latvia",
+  "card_title": "Greeting!",
+  "main_content": "<p>Welcome to the website for the sale of Betonblock SIA!</p>\n<p>Betonblock SIA is a unique opportunity to become the owner of a concrete plant with a successful track record. Established in 2013, the company has proven itself as a reliable supplier of high-quality concrete for various infrastructure projects.</p>\n<ul>\n  <li><strong>Ready business:</strong> A fully operational concrete plant with streamlined processes and a qualified team.</li>\n  <li><strong>Potential:</strong> Opportunity to participate in construction projects in Latvia and across EU countries.</li>\n  <li><strong>Investment prospects:</strong> Ideal conditions for scaling and growth amid high demand for construction materials.</li>\n</ul>\n<p>Learn more about the opportunities Betonblock SIA offers and take a step towards successful construction projects!</p>",
+  "details": "Learn More",
+  "photos_title": "Photos",
+  "random_photo": "Random Photo",
+  "revenue": "Revenue (2024)",
+  "investment": "Investment Amount",
+  "sale_price": "Sale Price",
+  "total_amount": "Total Amount"
+},
+"about": {
+  "title": "About Us | Betonblock SIA",
+  "welcome_title": "About Betonblock SIA",
+  "main_content": "<p>Betonblock company was founded in 2013 and has since successfully established itself as a reliable supplier of high-quality transport concrete, cement, and bulk materials. Holding all necessary certifications for the production and supply of these materials, the company continuously improves its production processes and steadily advances to new levels of competitiveness, matching the capabilities of larger plants.</p><p>We are located in Daugavpils, in the Latgale region, where there is a rise in construction activity and high demand for building materials. The main focus of the company is the sale of transport concrete, cement, and bulk materials. Betonblock ensures high product quality and stable deliveries, meeting the requirements of various construction projects, whether road construction or private orders.</p><p>The company is actively developing its production capacity and aims to provide Latgale and other regions with quality and reliable building materials, used at all stages of construction. Our materials are ideal for both large and small projects, and the Betonblock team is always ready to offer the best solutions to our clients.</p><p>Each year, Betonblock continues to increase its capacity and efficiency, contributing to the development of the construction industry in Latgale and Latvia as a whole. We take pride in our reputation as a reliable and professional supplier, always focused on long-term relationships with clients and delivering high-quality results.</p>"
+},
+"kpi": {
+  "title": "Company KPIs | Betonblock SIA",
+  "kpiwelcome_title": "Company KPIs",
+  "2023data_title": "2023 Data",
+  "2023data_content": "KPIs:",
+  "revenue_title": "Company Revenue",
+  "revenue": "Revenue",
+  "grossprofit_title": "Gross Profit",
+  "grossprofit": "Gross Profit",
+  "netprofit_title": "Net Profit",
+  "netprofit": "Annual Expenses",
+  "annual_revenue": "Annual Revenue",
+  "gross_profit": "Gross Profit",
+  "net_profit": "Net Profit",
+  "total_assets": "Total Assets",
+  "short_term_liabilities": "Short-term Liabilities",
+  "long_term_liabilities": "Long-term Liabilities",
+  "administrative_staff": "Administrative Staff",
+  "cost_of_sales": "Cost of Sales",
+  "equity": "Equity",
+  "ebidta": "EBIDTA",
+  "ebidta_margin": "EBIDTA Margin",
+  "dscr": "DSCR",
+  "net_liabilities_to_ebidta": "Net Liabilities to EBIDTA",
+  "liquidity_ratio": "Liquidity Ratio"
+},
+"assets": {
+  "title": "Company Assets | Betonblock SIA",
+  "welcome_title": "Description of Fixed Assets:",
+  "main_content": "<p><strong>ELBA Supermobil Plant</strong><br>Betonblock owns modern equipment for the production of high-quality concrete. One of the main assets is the <strong>ELBA Supermobil</strong> plant, which ensures stable and fast production, meeting the strictest standards. The plant is equipped with advanced technologies, allowing the production of concrete in the required volumes with guaranteed quality and durability.</p><p>Note: In addition to the plant, the company also has additional machines and equipment for transportation and material handling, ensuring uninterrupted operations. These assets allow the company to quickly fulfill both large and small orders, even under tight deadlines.</p><p><strong>Land Resources:</strong><br>The company leases land plots strategically located for further development. Currently, the possibility of purchasing these land plots is being considered, which would improve logistics and expand the company's operations. The land plots located on <strong>Siguldas ielā 6D</strong> and <strong>Jelgavas ielā 1T</strong> streets include several buildings, such as warehouses and production premises, which are currently used by the company for storage and processing of construction materials.</p><p><strong>Land Evaluation:</strong><br>According to the official evaluation, the land plots have the following characteristics:<br>- Cadastre numbers: <strong>0500 003 0014</strong> and <strong>0500 003 4004</strong>.<br>- Land plot area: <strong>5,856 m²</strong> and <strong>2,765 m²</strong>.<br>- All necessary utilities are available: electricity, gas, water supply, and sewerage.</p><p><strong>Property Characteristics:</strong><br>1. <strong>Warehouse 010</strong> — area: <strong>1,755.2 m²</strong>, condition: <strong>satisfactory/poor</strong>.<br>2. <strong>Warehouse 011</strong> — area: <strong>1,127.2 m²</strong>, condition: <strong>satisfactory</strong>.<br>3. <strong>Ventilation building 043</strong> — area: <strong>35.5 m²</strong>, condition: <strong>satisfactory</strong>.<br>4. <strong>Unfinished warehouse 044</strong> — area: <strong>509.8 m²</strong>, condition: <strong>satisfactory</strong>.</p><p><strong>Future Prospects:</strong><br>The company plans to purchase these land plots, which will provide greater control over production capabilities and improve logistics. This step will strengthen the company's position in the market, increasing production volumes and expanding opportunities for new projects.</p>"
+},
+"photo": {
+    "title": "Photo | Betonblock SIA",
+    "welcome_title": "Company Photos",
+    "main_content": "<p>This section features photos of Betonblock SIA. Here you can get acquainted with the production processes, equipment, and other aspects of the company's operations.</p>"
+  },
+  "contacts": {
+    "title": "Contacts | Betonblock SIA",
+    "welcome_title": "Contact Information",
+    "rekviziti_title": "Details",
+    "rekviziti": "<p><strong>IPX SIA</strong><br>Email: <a href=\"mailto:",
+    "contacts_title": "Get in Touch",
+    "contacts": "You can contact us via WhatsApp or send an email to our address. Click one of the buttons below for quick access."
+  },
+  "details": {
+  "address": "Address",
+  "regnr": "Registration number",
+  "vatnr": "VAT number",
+  "bank": "Bank",
+  "swift": "SWIFT",
+  "bank_acc": "Bank account"
+}
+}
