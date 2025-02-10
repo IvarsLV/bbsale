@@ -54,11 +54,47 @@ export default {
     this.stats = statsData.stats;
 
     const imagePaths = [
-      "/img/photo/1.png",
-      "/img/photo/2.png",
-      "/img/photo/3.png",
-      // Добавьте остальные пути
-    ];
+  "/img/photo/1.png",
+  "/img/photo/2.jpg",
+  "/img/photo/3.png",
+  "/img/photo/4.jpg",
+  "/img/photo/5.jpg",
+  "/img/photo/6.jpg",
+  "/img/photo/7.png",
+  "/img/photo/8.png",
+  "/img/photo/9.jpg",
+  "/img/photo/10.jpg",
+  "/img/photo/11.jpg",
+  "/img/photo/12.jpg",
+  "/img/photo/13.jpg",
+  "/img/photo/14.jpg",
+  "/img/photo/15.jpg",
+  "/img/photo/16.jpg",
+  "/img/photo/17.jpg",
+  "/img/photo/18.jpg",
+  "/img/photo/19.jpg",
+  "/img/photo/20.jpg",
+  "/img/photo/21.jpg",
+  "/img/photo/22.jpg",
+  "/img/photo/23.jpg",
+  "/img/photo/24.jpg",
+  "/img/photo/25.jpg",
+  "/img/photo/26.jpg",
+  "/img/photo/27.jpg",
+  "/img/photo/28.jpg",
+  "/img/photo/29.jpg",
+  "/img/photo/30.jpg",
+  "/img/photo/31.jpg",
+  "/img/photo/32.jpg",
+  "/img/photo/33.jpg",
+  "/img/photo/34.jpg",
+  "/img/photo/35.jpg",
+  "/img/photo/36.jpg",
+  "/img/photo/37.jpg",
+  "/img/photo/38.jpg",
+  "/img/photo/39.jpg",
+  "/img/photo/40.jpg"
+];
 
     const randomImage = imagePaths[Math.floor(Math.random() * imagePaths.length)];
     const slider = document.getElementById("slider");
