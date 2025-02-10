@@ -36,15 +36,17 @@ export default {
 
 .image-right {
   float: right;
-  margin: 35px 10px 10px 15px;
-  width: 400px;
+  margin: 10px 0;
+  max-width: 400px;
+  width: 100%;
   border-radius: 5px;
 }
 
 .image-left {
   float: left;
   margin: 0 15px 10px 0;
-  width: 350px;
+  width: 100%;
+  max-width: 350px;
   border-radius: 5px;
 }
 

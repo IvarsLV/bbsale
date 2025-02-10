@@ -15,7 +15,6 @@
         </button>
       </div>
     </header>
-
     <AppSidebar
   v-if="screenWidth > 992 || sidebarOpen"
   :sidebarOpen="sidebarOpen"
